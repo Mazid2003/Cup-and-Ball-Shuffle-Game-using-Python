@@ -1,1 +1,31 @@
+Requirements for the Cup and Ball Shuffle Game (Python)
 
+To run this Cup and Ball Shuffle Game, you need the following:
+
+1. Python Installation
+Ensure you have Python 3.x installed. You can download it from Python's official website.
+
+2. Required Python Libraries
+You need Pygame for handling graphics and user interaction.
+Install it using:
+
+pip install pygame
+
+3. Assets Required
+You'll need images for:
+Cup (cup1.png)
+Ball (ball1.png)
+Make sure these images are placed in the same directory as the script.
+
+4. System Requirements
+Any OS that supports Python (Windows, macOS, Linux)
+A display screen to render the game
+A mouse (for selecting cups)
+
+5. Project Folder Structure
+
+CupAndBallGame/
+│── cup_and_ball.py  # (Main Python script)
+│── cup1.png         # (Cup image)
+│── ball1.png        # (Ball image)
+│── README.md        # (Project documentation)
