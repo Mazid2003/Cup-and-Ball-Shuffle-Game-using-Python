@@ -33,17 +33,17 @@ Step 1: Clone the Repository
 
 **git clone https://github.com/Mazid2003/Hidden-Sphere-using-Python.git**
 
-cd cup-and-ball-game
+**cd cup-and-ball-game**
 
 Step 2: Install Dependencies
 
 Make sure you have Python 3.x installed, then install Pygame:
 
-pip install pygame
+**pip install pygame**
 
 Step 3: Run the Game
 
-python cup_and_ball.py
+**python cup_and_ball.py**
 
 **🏗️ Project Structure**
 
