@@ -11,6 +11,36 @@ Install it using:
 
 pip install pygame
 
+Pygame Package - Overview 🎮
+Pygame is a cross-platform Python library used for developing 2D games and multimedia applications. It provides modules for handling graphics, sound, input events, and physics, making game development easier.
+
+🔹 Features of Pygame
+Easy to Use – Simple API with built-in support for game loops, event handling, and rendering.
+Cross-Platform – Works on Windows, macOS, and Linux.
+Hardware Acceleration – Uses SDL (Simple DirectMedia Layer) for fast performance.
+Supports Sound & Music – Can play MP3, OGG, WAV files.
+Handles Input Events – Supports keyboard, mouse, and joystick inputs.
+Graphics & Animation – Draw shapes, load images, and create animations.
+
+🔹 Important Pygame Modules
+Module____________Description
+pygame.display____Manages the game window
+pygame.image______Loads and manipulates images
+pygame.mixer______Handles sounds and music
+pygame.draw_______Draws shapes (circles, rectangles, lines)
+pygame.key________Handles keyboard input
+pygame.mouse______Handles mouse input
+pygame.event______Detects user interactions (clicks, key presses)
+pygame.time_______Controls game timing (FPS, delays)
+
+🔹 Why Use Pygame?
+✅ Simple & beginner-friendly
+✅ No need for advanced graphics knowledge
+✅ Great for game development & simulations
+✅ Active community & open-source
+
+
+
 3. Assets Required
 You'll need images for:
 Cup (cup1.png)
