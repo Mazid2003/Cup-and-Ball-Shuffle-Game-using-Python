@@ -31,7 +31,7 @@ A fun and interactive cup-and-ball shuffle game built using Python and Pygame! T
 
 Step 1: Clone the Repository
 
-**git clone https://github.com/Mazid2003/Hidden-Sphere-using-Python.git**
+**git clone https://github.com/Mazid2003/Finding-Hidden-Sphere-using-Python.git**
 
 **cd cup-and-ball-game**
 
