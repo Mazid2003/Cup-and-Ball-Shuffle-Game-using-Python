@@ -1,4 +1,4 @@
-# Hidden-Sphere-using-Python
+# Finding Hidden-Sphere-using-Python
 
 **🏆 Cup and Ball Shuffle Game 🎩🎱**
 
