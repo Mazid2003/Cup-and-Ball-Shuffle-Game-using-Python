@@ -33,7 +33,7 @@ Step 1: Clone the Repository
 
 **git clone https://github.com/Mazid2003/Finding-Hidden-Sphere-using-Python.git**
 
-**cd cup-and-ball-game**
+**cd cupball**
 
 Step 2: Install Dependencies
 
@@ -43,13 +43,13 @@ Make sure you have Python 3.x installed, then install Pygame:
 
 Step 3: Run the Game
 
-**python cup_and_ball.py**
+**python cupball.py**
 
 **🏗️ Project Structure**
 
-📂 cup-and-ball-game/
+📂 cupball/
 
-├── 🎮 cup_and_ball.py        # Main game logic
+├── 🎮 cupball.py        # Main game logic
 
 ├── 📜 README.md              # Game documentation
 
