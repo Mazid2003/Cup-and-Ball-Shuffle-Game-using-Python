@@ -1,6 +1,4 @@
-# Finding Hidden Sphere using Python
-
-**🏆 Cup and Ball Shuffle Game 🎩🎱**
+# 🏆 Cup and Ball Shuffle Game using Python 🎩🎱
 
 A fun and interactive cup-and-ball shuffle game built using Python and Pygame! The goal is to track the ball hidden under one of the cups as they shuffle and click on the correct cup to win. 🎉
 
